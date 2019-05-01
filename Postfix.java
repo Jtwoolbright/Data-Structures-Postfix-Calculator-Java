@@ -1,4 +1,8 @@
-
+/*
+ * Description: This code utilizes the stack to create a postfix calculator
+ *              that takes an infix equation as an argument and converts it
+ *              to postfix notation.
+ */
 import java.util.EmptyStackException;
 
 public class Postfix
