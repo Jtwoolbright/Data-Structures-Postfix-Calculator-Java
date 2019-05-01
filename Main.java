@@ -1,4 +1,7 @@
-
+/*        Name: Josh Woolbright
+ * Description: This is a driver program that test the calculator for bugs.
+ *
+ */
 public class Main 
 {
 	public static void main(String[] args) 
