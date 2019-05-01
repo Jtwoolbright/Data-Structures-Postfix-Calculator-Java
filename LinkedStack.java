@@ -1,4 +1,6 @@
-
+/*        Name: Josh Woolbright
+ * Description: This code creates a stack using a linked list.
+ */
 import java.util.EmptyStackException;
 
 public class LinkedStack<T> implements StackInterface<T>
